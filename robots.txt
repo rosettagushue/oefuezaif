@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oopaneezai.1x79m.com/sitemap.xml
